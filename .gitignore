@@ -3,7 +3,6 @@ autostart/
 autostart/*
 local/
 local/*
-node_modules/
 packages/
 packages/*
 tmp/
